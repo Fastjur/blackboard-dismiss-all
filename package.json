@@ -1,0 +1,26 @@
+{
+  "name": "blackboard-dismiss-all",
+  "version": "1.0.0",
+  "description": "A userscript that adds a dismiss all button to the BlackBoard Updates section",
+  "main": "src/blackboard-dismiss-all.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fastjur/blackboard-dismiss-all.git"
+  },
+  "author": "Jurriaan Den Toonder <jurriaan.toonder@liquidpineapple.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fastjur/blackboard-dismiss-all/issues"
+  },
+  "homepage": "https://github.com/Fastjur/blackboard-dismiss-all#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-minify": "0.0.12",
+    "gulp-replace": "^0.5.4"
+  }
+}
